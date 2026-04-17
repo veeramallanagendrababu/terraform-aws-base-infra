@@ -101,4 +101,14 @@ Terraform Apply
       ▼
 8. Install Apache using user_data
 
-
+git commands:
+--------------------
+  # rm -rf .git
+ # git init
+ # vi .gitignore
+ # git add .
+ # git commit -m "Clean Terraform infrastructure without secrets"
+ # git status
+ #  git remote add origin https://github.com/veeramallanagendrababu/terraform-aws-base-infra.git
+ # git branch -M main
+ #  git push -u origin main
